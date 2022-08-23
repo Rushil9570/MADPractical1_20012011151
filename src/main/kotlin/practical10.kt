@@ -52,7 +52,6 @@ class Car constructor(cmodel: String, oprice: Int, cowner: String, mdrive: Int, 
 
 
 }
-
 fun main() {
     println("Created car1 named object of class Car")
     var car1 = Car("Audi A6 ,2018", 3000000, "Dev", 4000, 28500000)
