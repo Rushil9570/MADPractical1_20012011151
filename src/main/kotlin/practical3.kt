@@ -1,6 +1,6 @@
 fun main(){
     print("Student Enrollment No.: ")
-    var sn:Long = readLine()!!.toLong()
+    var sn = readLine()
     print("Student Name: ")
     var sname = readLine()
     print("Student Branch: ")
