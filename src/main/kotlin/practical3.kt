@@ -12,7 +12,7 @@ fun main(){
     print("Student Age: ")
     var sa:Int = readLine()!!.toInt()
 
-    print("***************************************")
+    println("***************************************")
 
     println("Student Enrollment No.: $sn")
     println("Student Name: $sname")
